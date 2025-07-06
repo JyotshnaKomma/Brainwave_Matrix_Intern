@@ -43,12 +43,6 @@ Developed By
 Jyotshna Komma
 B.Tech – Data Science
 Vignan's Institute of Engineering for Women
- Internship: Database Management Intern
- Organization: Brainwave Matrix Solutions
- Location: India
-
-
-###  Connect With Me
-
--  Email: jyotshnakomma2@gmail.com
--  LinkedIn: [Jyotshna Komma](www.linkedin.com/in/jyotshna-komma-152027jk)
+📅 Internship: Database Management Intern
+🏢 Organization: Brainwave Matrix Solutions
+📌 Location: India
