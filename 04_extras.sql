@@ -23,8 +23,3 @@ BEGIN
 END$$
 DELIMITER ;
 
--- Example: Mark a fine as paid
--- UPDATE Fines SET status = 'Paid' WHERE fine_id = 2;
-
--- Example: Delete inactive member (if no active issues)
--- DELETE FROM Members WHERE member_id = 3;
