@@ -1,0 +1,10 @@
+ Online Store Database Management System
+
+This project is developed as part of the 'Brainwave Matrix Solutions Internship'. It models an 'Online Store' using a relational database to manage products, customers, orders, and payments.
+
+# Objective
+Design and implement a relational database for an online store to efficiently manage:
+- Customer data
+- Product inventory
+- Orders and their details
+- Payment transactions
